@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![screenshot](./image/screenshot.jpg)
+![screenshot](https://github.com/aaronli722/230121-nft-preview-card-component-main/blob/main/images/Screenshot.png)
 
 ### Links
 
@@ -94,7 +94,7 @@ to apply the hover effect of the main image, I added a div with overlay color. B
 
 There is a 1px gap at the bottom and I have to set the height to 99% to fix it.
 
-![](Frontend Mentor/nft-preview-card-component-main/images/Screenshot 2023-01-21 at 14.03.01.png)
+![](https://github.com/aaronli722/230121-nft-preview-card-component-main/blob/main/images/Screenshot%202023-01-21%20at%2014.03.01.png)
 
 ## Author
 
